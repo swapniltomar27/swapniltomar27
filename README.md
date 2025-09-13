@@ -1,5 +1,7 @@
 ## Hi, I am Swapnil Tomar👋
-
+- 🎓 I'm a Computer Science student.  
+- 🌱 Currently learning **ML, NLP, DS**. 
+- 📫 How to reach me: swapnil.dsml@gmail.com
 <!--
 **swapniltomar27/swapniltomar27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
